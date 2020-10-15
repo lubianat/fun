@@ -2,10 +2,10 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://lubianat.github.io/ideas_rootstock/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://lubianat.github.io/ideas_rootstock/manuscript.pdf)
-[![GitHub Actions Status](https://github.com/lubianat/ideas_rootstock/workflows/Manubot/badge.svg)](https://github.com/lubianat/ideas_rootstock/actions)
-[![Travis Build Status](https://travis-ci.com/lubianat/ideas_rootstock.svg?branch=master)](https://travis-ci.com/lubianat/ideas_rootstock)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://lubianat.github.io/fun/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://lubianat.github.io/fun/manuscript.pdf)
+[![GitHub Actions Status](https://github.com/lubianat/fun/workflows/Manubot/badge.svg)](https://github.com/lubianat/fun/actions)
+[![Travis Build Status](https://travis-ci.com/lubianat/fun.svg?branch=master)](https://travis-ci.com/lubianat/fun)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Project idea description
@@ -51,6 +51,6 @@ We encourage users to openly license their manuscripts, which is the default as 
 [![License: CC0 1.0](https://img.shields.io/badge/License%20Parts-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Except when noted otherwise, the entirety of this repository is licensed under a CC BY 4.0 License ([`LICENSE.md`](LICENSE.md)), which allows reuse with attribution.
-Please attribute by linking to https://github.com/lubianat/ideas_rootstock.
+Please attribute by linking to https://github.com/lubianat/fun.
 
-Please open [an issue](https://github.com/lubianat/ideas_rootstock/issues) for any question related to licensing.
+Please open [an issue](https://github.com/lubianat/fun/issues) for any question related to licensing.
