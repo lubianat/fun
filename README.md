@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/lubianat/fun/tree/gh-pages) branch hosts the contents of this directory at <https://lubianat.github.io/fun/>.
-The permalink for this webpage version is <https://lubianat.github.io/fun/v/7022c1c0f306141d6f28f183c6a837ef0ff2be53/>.
+The permalink for this webpage version is <https://lubianat.github.io/fun/v/7c8500a829e099c5c1e3130b30653069872cd130/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://lubianat.github.io/fun/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`7022c1c0f306141d6f28f183c6a837ef0ff2be53`](https://github.com/lubianat/fun/commit/7022c1c0f306141d6f28f183c6a837ef0ff2be53).
+[`7c8500a829e099c5c1e3130b30653069872cd130`](https://github.com/lubianat/fun/commit/7c8500a829e099c5c1e3130b30653069872cd130).
